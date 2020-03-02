@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "795919887165",
+    "firebase_url": "https://billsapp-fc970.firebaseio.com",
+    "project_id": "billsapp-fc970",
+    "storage_bucket": "billsapp-fc970.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795919887165:android:88202b19fb46344fdd3354",
+        "android_client_info": {
+          "package_name": "thealphamerc.flutter_login_signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795919887165-cg7ojib3hib04ia1jj2eoiciu9j8i6eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbChVeOnp3emN4rXjsjRJwUYAEPT_fJp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795919887165-cg7ojib3hib04ia1jj2eoiciu9j8i6eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

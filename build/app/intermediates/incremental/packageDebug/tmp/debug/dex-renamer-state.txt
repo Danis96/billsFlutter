@@ -1,0 +1,4 @@
+#Sun Mar 01 21:19:01 CET 2020
+base.0=/Users/rijadbabovic/Desktop/danisbillsSS/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
